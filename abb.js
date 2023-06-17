@@ -223,4 +223,7 @@ console.log (`кош келдиңиз ${names[i]}`)
 // git hup
 //1. git init
 //2. git add. пронекте катталган баардык папкаларды, файлдарды кошуп берет.
-//3.git commit -m ""  коментарий кошсоң 
+//3. git commit -m ""  коментарий кошсоң 
+//4. git branch - дефолт боюнча  main либа  master чыгарып берет
+//5. git remote add origin -сслка коюлат githup
+//5. git puch origin-main je master 
